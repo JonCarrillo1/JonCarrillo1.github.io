@@ -1,0 +1,25 @@
+* {
+	border: 0px solid blue
+}
+p {
+	padding: 10px;
+	margin: 10px;
+}
+header h1 {
+	float: left;
+}
+header ul {float:right;}
+.clear {clear:both;}
+
+hr {
+	border : solid black 10px;
+}
+body{
+			background: url() no-repeat 50% 50%;
+			background-size :contain;
+			font-family: 'Amatic SC', cursive;
+		}
+
+#twitter {width 600px; float: right;}
+
+img {float: left;}
